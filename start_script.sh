@@ -1,0 +1,3 @@
+./remote.sh &
+disown
+exit
